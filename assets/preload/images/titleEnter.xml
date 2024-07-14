@@ -1,9 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="titleEnter.png">
-	<!-- Created with Adobe Animate version 21.0.2.37893 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="ENTER FREEZE0000" x="8" y="8" width="1477" height="79"/>
-	<SubTexture name="ENTER IDLE0000" x="8" y="95" width="1477" height="79"/>
-	<SubTexture name="ENTER PRESSED0000" x="8" y="8" width="1477" height="79"/>
-	<SubTexture name="ENTER PRESSED0001" x="8" y="182" width="1477" height="79"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="TitleEnter.png" width="1252" height="83">
+  <SubTexture name="titleEnter 00000.png" x="0" y="0"  width="217" height="42" frameX="-161" frameY="-188" frameWidth="540" frameHeight="404"/>
+  <SubTexture name="titleEnter 00003.png" x="217" y="0"  width="215" height="66" frameX="-161" frameY="-179" frameWidth="540" frameHeight="404"/>
+  <SubTexture name="titleEnter 00002.png" x="0" y="42"  width="215" height="41" frameX="-162" frameY="-188" frameWidth="540" frameHeight="404"/>
+  <SubTexture name="titleEnter 00006.png" x="432" y="0"  width="215" height="41" frameX="-154" frameY="-158" frameWidth="540" frameHeight="404"/>
+  <SubTexture name="titleEnter 00001.png" x="647" y="0"  width="211" height="41" frameX="-164" frameY="-188" frameWidth="540" frameHeight="404"/>
+  <SubTexture name="titleEnter 00004.png" x="858" y="0"  width="201" height="38" frameX="-169" frameY="-189" frameWidth="540" frameHeight="404"/>
+  <SubTexture name="titleEnter 00005.png" x="1059" y="0"  width="193" height="35" frameX="-178" frameY="-201" frameWidth="540" frameHeight="404"/>
 </TextureAtlas>
