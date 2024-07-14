@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				281,
+				300
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "jeferson sus idle"
+		},
+		{
+			"offsets": [
+				280,
+				296
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jeferson sus up"
+		},
+		{
+			"offsets": [
+				283,
+				297
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jeferson sus down"
+		},
+		{
+			"offsets": [
+				280,
+				296
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jeferson sus right"
+		},
+		{
+			"offsets": [
+				311,
+				301
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jeferson sus left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				286,
+				298
+			],
+			"anim": "cae",
+			"fps": 15,
+			"name": "jeferson sus hefuckingfalldown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				285,
+				298
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "brillo goat",
+			"loop": false,
+			"name": "jeferson sus nervioso brillo goat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jeferson sus nervioso",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "jeferson sus",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		21,
+		21
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				620,
+				560
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "egg idle"
+		},
+		{
+			"offsets": [
+				620,
+				560
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "egg up"
+		},
+		{
+			"offsets": [
+				620,
+				560
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "egg down"
+		},
+		{
+			"offsets": [
+				620,
+				560
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "kaboom beach",
+			"indices": [],
+			"name": "egg kaboom beach"
+		},
+		{
+			"offsets": [
+				620,
+				560
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "egg right"
+		},
+		{
+			"offsets": [
+				620,
+				560
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "egg left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/egg",
+	"position": [
+		0,
+		-100
+	],
+	"healthicon": "egg",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		225,
+		197
+	],
+	"camera_position": [
+		-900,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

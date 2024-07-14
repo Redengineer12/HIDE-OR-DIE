@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				510,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf sus nervioso miss left"
+		},
+		{
+			"offsets": [
+				480,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf sus miss down"
+		},
+		{
+			"offsets": [
+				470,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf sus miss up"
+		},
+		{
+			"offsets": [
+				510,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf sus miss right"
+		},
+		{
+			"offsets": [
+				320,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				276,
+				-114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				269,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				485,
+				150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bf sentado idle"
+		},
+		{
+			"offsets": [
+				492,
+				147
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bf sentado left"
+		},
+		{
+			"offsets": [
+				488,
+				147
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bf sentado up"
+		},
+		{
+			"offsets": [
+				480,
+				149
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bf sentado down"
+		},
+		{
+			"offsets": [
+				481,
+				150
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bf sentado right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf sentado",
+	"position": [
+		-100,
+		70
+	],
+	"healthicon": "bf nervioso",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		162,
+		230
+	],
+	"camera_position": [
+		-200,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

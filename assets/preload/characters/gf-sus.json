@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				290,
+				540
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "gf sus idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf sus",
+	"position": [
+		-90,
+		60
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

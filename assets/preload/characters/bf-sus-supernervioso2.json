@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				485,
+				150
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "bf_sus_supernervioso idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				493,
+				147
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "bf_sus_supernervioso left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				488,
+				147
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "bf_sus_supernervioso up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				149
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "bf_sus_supernervioso down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				477,
+				150
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "bf_sus_supernervioso right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				510,
+				150
+			],
+			"anim": "singLEFTmiss",
+			"fps": 15,
+			"name": "bf_sus_supernervioso miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				150
+			],
+			"anim": "singDOWNmiss",
+			"fps": 15,
+			"name": "bf_sus_supernervioso miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				470,
+				150
+			],
+			"anim": "singUPmiss",
+			"fps": 15,
+			"name": "bf_sus_supernervioso miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				510,
+				150
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 15,
+			"name": "bf_sus_supernervioso miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				250
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "bf_sus_supernervioso death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				249
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "bf_sus_supernervioso reset",
+			"indices": []
+		},
+		{
+			"offsets": [
+				480,
+				249
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "bf_sus_supernervioso loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_sus_supernervioso",
+	"position": [
+		-100,
+		100
+	],
+	"healthicon": "bf supernervioso",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		162,
+		230
+	],
+	"camera_position": [
+		190,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

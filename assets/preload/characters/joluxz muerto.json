@@ -1,0 +1,62 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "joluxz muerto left"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "joluxz muerto right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/joluxz muerto",
+	"position": [
+		1400,
+		870
+	],
+	"healthicon": "joluxz1",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		100,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

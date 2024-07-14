@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				485,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf sus2 idle"
+		},
+		{
+			"offsets": [
+				484,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf sus2 left"
+		},
+		{
+			"offsets": [
+				499,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf sus2 down"
+		},
+		{
+			"offsets": [
+				474,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf sus2 right"
+		},
+		{
+			"offsets": [
+				488,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf sus2 up"
+		},
+		{
+			"offsets": [
+				485,
+				149
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "hey",
+			"indices": [],
+			"name": "bf sus2 pose v"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf sus2",
+	"position": [
+		-100,
+		50
+	],
+	"healthicon": "bfsus1",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		162,
+		230
+	],
+	"camera_position": [
+		190,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 0.43
+}

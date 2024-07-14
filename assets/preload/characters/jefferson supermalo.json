@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "jefferson supermalo idleright"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "jefferson supermalo idleleft"
+		},
+		{
+			"offsets": [
+				60,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jefferson supermalo left"
+		},
+		{
+			"offsets": [
+				-20,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jefferson supermalo down"
+		},
+		{
+			"offsets": [
+				-34,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jefferson supermalo right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jefferson supermalo up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jefferson supermalo",
+	"position": [
+		-2100,
+		-400
+	],
+	"healthicon": "jefferson supermalo",
+	"flip_x": false,
+	"healthbar_colors": [
+		125,
+		0,
+		88
+	],
+	"camera_position": [
+		-120,
+		100
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1
+}

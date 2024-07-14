@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				281,
+				300
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "bf impostor idle"
+		},
+		{
+			"offsets": [
+				278,
+				301
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bf impostor up"
+		},
+		{
+			"offsets": [
+				280,
+				301
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bf impostor down"
+		},
+		{
+			"offsets": [
+				275,
+				301
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bf impostor right"
+		},
+		{
+			"offsets": [
+				276,
+				301
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bf impostor left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf impostor",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

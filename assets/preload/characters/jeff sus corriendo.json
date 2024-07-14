@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "jeff sus corriendo idle right"
+		},
+		{
+			"offsets": [
+				-2,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "jeff sus corriendo idle left"
+		},
+		{
+			"offsets": [
+				1,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jeff sus corriendo left"
+		},
+		{
+			"offsets": [
+				1,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jeff sus corriendo down"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jeff sus corriendo right"
+		},
+		{
+			"offsets": [
+				0,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jeff sus corriendo up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jeff sus corriendo",
+	"position": [
+		-2300,
+		-500
+	],
+	"healthicon": "jefferson supermalo",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		150,
+		250
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 0.8
+}

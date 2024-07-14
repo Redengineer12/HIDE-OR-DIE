@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				281,
+				300
+			],
+			"anim": "idle",
+			"fps": 22,
+			"name": "jeferson sus idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				296
+			],
+			"anim": "singUP",
+			"fps": 22,
+			"name": "jeferson sus up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				283,
+				297
+			],
+			"anim": "singDOWN",
+			"fps": 22,
+			"name": "jeferson sus down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				296
+			],
+			"anim": "singRIGHT",
+			"fps": 22,
+			"name": "jeferson sus right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				311,
+				301
+			],
+			"anim": "singLEFT",
+			"fps": 22,
+			"name": "jeferson sus left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jeferson sus",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "jeferson sus",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		21,
+		21
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

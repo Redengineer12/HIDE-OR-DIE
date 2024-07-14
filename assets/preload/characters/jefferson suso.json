@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				280,
+				296
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jefferson bueno up"
+		},
+		{
+			"offsets": [
+				283,
+				297
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jefferson bueno down"
+		},
+		{
+			"offsets": [
+				311,
+				301
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jefferson bueno left"
+		},
+		{
+			"offsets": [
+				280,
+				296
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jefferson bueno right"
+		},
+		{
+			"offsets": [
+				281,
+				300
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "jefferson bueno idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jefferson suso",
+	"position": [
+		-100,
+		220
+	],
+	"healthicon": "jeffsuso",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				485,
+				150
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf sus nervioso idle"
+		},
+		{
+			"offsets": [
+				492,
+				147
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf sus nervioso left"
+		},
+		{
+			"offsets": [
+				488,
+				147
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf sus nervioso up"
+		},
+		{
+			"offsets": [
+				480,
+				149
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf sus nervioso down"
+		},
+		{
+			"offsets": [
+				481,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf sus nervioso right"
+		},
+		{
+			"offsets": [
+				510,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf sus nervioso miss left"
+		},
+		{
+			"offsets": [
+				480,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf sus miss down"
+		},
+		{
+			"offsets": [
+				470,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf sus miss up"
+		},
+		{
+			"offsets": [
+				510,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf sus miss right"
+		},
+		{
+			"offsets": [
+				320,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				276,
+				-114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				269,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf suso",
+	"position": [
+		-100,
+		100
+	],
+	"healthicon": "bfsuso",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		190,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

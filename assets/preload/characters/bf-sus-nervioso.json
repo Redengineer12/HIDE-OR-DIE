@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				485,
+				150
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "bf sus nervioso idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				492,
+				147
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "bf sus nervioso left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				488,
+				147
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "bf sus nervioso up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				149
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "bf sus nervioso down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				481,
+				150
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "bf sus nervioso right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				510,
+				150
+			],
+			"anim": "singLEFTmiss",
+			"fps": 15,
+			"name": "bf sus nervioso miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				150
+			],
+			"anim": "singDOWNmiss",
+			"fps": 15,
+			"name": "bf sus miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				470,
+				150
+			],
+			"anim": "singUPmiss",
+			"fps": 15,
+			"name": "bf sus miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				510,
+				150
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 15,
+			"name": "bf sus miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				320,
+				-100
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				276,
+				-114
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				269,
+				-113
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_sus_nervioso",
+	"position": [
+		-100,
+		100
+	],
+	"healthicon": "bf nervioso",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		162,
+		230
+	],
+	"camera_position": [
+		190,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

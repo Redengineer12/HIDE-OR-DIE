@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				281,
+				300
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "jeferson sus idle"
+		},
+		{
+			"offsets": [
+				344,
+				293
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jeferson sus up"
+		},
+		{
+			"offsets": [
+				296,
+				297
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jeferson sus down"
+		},
+		{
+			"offsets": [
+				272,
+				296
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jeferson sus right"
+		},
+		{
+			"offsets": [
+				424,
+				301
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jeferson sus left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jeferson_sus_malo",
+	"position": [
+		-100,
+		150
+	],
+	"healthicon": "icon-jefresonmalote",
+	"flip_x": false,
+	"healthbar_colors": [
+		125,
+		0,
+		88
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

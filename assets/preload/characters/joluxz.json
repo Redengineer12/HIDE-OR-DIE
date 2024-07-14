@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				485,
+				150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "joluxz idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				492,
+				154
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "joluxz left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				484,
+				149
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "joluxz down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				479,
+				151
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "joluxz up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				483,
+				150
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "joluxz right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				480,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shh",
+			"indices": [],
+			"name": "joluxz down"
+		},
+		{
+			"offsets": [
+				495,
+				147
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "death",
+			"indices": [],
+			"name": "joluxz death"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/joluxz",
+	"position": [
+		500,
+		-130
+	],
+	"healthicon": "joluxz1",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		62,
+		255
+	],
+	"camera_position": [
+		-800,
+		30
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 0.9
+}

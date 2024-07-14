@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				540
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "nadieXD GF Cheer",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nadieXD",
+	"position": [
+		-90,
+		60
+	],
+	"healthicon": "nadieXD",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

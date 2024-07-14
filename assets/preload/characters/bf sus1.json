@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				488,
+				143
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bf sus1 left"
+		},
+		{
+			"offsets": [
+				485,
+				150
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "bf sus1 idle"
+		},
+		{
+			"offsets": [
+				480,
+				149
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bf sus1 down"
+		},
+		{
+			"offsets": [
+				483,
+				150
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bf sus1 right"
+		},
+		{
+			"offsets": [
+				495,
+				153
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bf sus1 up"
+		},
+		{
+			"offsets": [
+				488,
+				144
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "bf sus1 miss left"
+		},
+		{
+			"offsets": [
+				497,
+				150
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "bf sus1 miss up"
+		},
+		{
+			"offsets": [
+				480,
+				150
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "bf sus1 miss down"
+		},
+		{
+			"offsets": [
+				485,
+				150
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "bf sus1 miss right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf sus1",
+	"position": [
+		-100,
+		50
+	],
+	"healthicon": "bf sus",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		162,
+		230
+	],
+	"camera_position": [
+		190,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

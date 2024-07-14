@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				281,
+				300
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "jefferson nervioso idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				302
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "jefferson nervioso up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				283,
+				297
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "jefferson nervioso down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				301,
+				298
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "jefferson nervioso left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				279,
+				300
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "jefferson nervioso right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jefferson nervioso",
+	"position": [
+		-100,
+		200
+	],
+	"healthicon": "jeffsus1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		21,
+		21
+	],
+	"camera_position": [
+		0,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 0.48
+}
