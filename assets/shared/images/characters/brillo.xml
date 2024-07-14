@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="brillo.png"><SubTexture name="brillo idle0000" x="1139" y="0" width="740" height="811" frameX="-242" frameY="-284" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="brillo idle0001" x="0" y="940" width="850" height="733" frameX="-188" frameY="-329" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="brillo idle0002" x="557" y="0" width="582" height="865" frameX="-324" frameY="-258" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="brillo idle0003" x="0" y="0" width="557" height="940" frameX="-340" frameY="-217" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="brillo idle0004" x="850" y="940" width="964" height="669" frameX="-141" frameY="-354" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="brillo idle0005" x="1879" y="0" width="1043" height="617" frameX="-102" frameY="-388" frameWidth="1308" frameHeight="1300" />
+</TextureAtlas>

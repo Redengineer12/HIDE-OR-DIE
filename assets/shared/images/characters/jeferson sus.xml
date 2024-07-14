@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jeferson sus.png"><SubTexture name="jeferson sus down0000" x="3165" y="0" width="1023" height="960" frameX="-105" frameY="-181" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus down0001" x="1015" y="2909" width="1016" height="956" frameX="-112" frameY="-174" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus down0002" x="2146" y="963" width="995" height="957" frameX="-125" frameY="-161" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus down0003" x="3129" y="2909" width="1005" height="953" frameX="-118" frameY="-170" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus down0004" x="2146" y="0" width="1019" height="963" frameX="-109" frameY="-178" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus down0005" x="3165" y="0" width="1023" height="960" frameX="-105" frameY="-181" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus down0006" x="3165" y="960" width="1023" height="960" frameX="-105" frameY="-181" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus down0007" x="3165" y="0" width="1023" height="960" frameX="-105" frameY="-181" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus down0008" x="3165" y="0" width="1023" height="960" frameX="-105" frameY="-181" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus right0000" x="1112" y="3866" width="1011" height="948" frameX="-132" frameY="-167" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus right0001" x="3165" y="1920" width="1006" height="959" frameX="-142" frameY="-156" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus right0002" x="0" y="0" width="1002" height="975" frameX="-157" frameY="-140" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus right0003" x="1077" y="975" width="1007" height="965" frameX="-143" frameY="-150" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus right0004" x="0" y="2909" width="1015" height="957" frameX="-132" frameY="-158" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus right0005" x="2123" y="3866" width="1011" height="948" frameX="-132" frameY="-167" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus right0006" x="1112" y="3866" width="1011" height="948" frameX="-132" frameY="-167" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus right0007" x="1112" y="3866" width="1011" height="948" frameX="-132" frameY="-167" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus left0000" x="4026" y="4815" width="1089" height="899" frameX="-52" frameY="-213" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus left0001" x="2031" y="2909" width="1098" height="956" frameX="-38" frameY="-162" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus left0002" x="0" y="975" width="1077" height="971" frameX="-12" frameY="-148" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus left0003" x="5178" y="1888" width="1078" height="942" frameX="-11" frameY="-176" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus left0004" x="3134" y="3866" width="1086" height="945" frameX="-24" frameY="-174" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus left0005" x="6264" y="0" width="1082" height="883" frameX="-35" frameY="-229" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus left0006" x="5115" y="4815" width="1089" height="899" frameX="-52" frameY="-213" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus left0007" x="4026" y="4815" width="1089" height="899" frameX="-52" frameY="-213" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus left0008" x="4026" y="4815" width="1089" height="899" frameX="-52" frameY="-213" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus up0000" x="5178" y="3769" width="1006" height="933" frameX="-102" frameY="-182" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus up0001" x="5178" y="2830" width="998" height="939" frameX="-105" frameY="-177" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus up0002" x="2164" y="1946" width="983" height="950" frameX="-114" frameY="-167" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus up0003" x="0" y="1946" width="1024" height="963" frameX="-94" frameY="-152" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus up0004" x="4188" y="0" width="990" height="950" frameX="-118" frameY="-165" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus up0005" x="3018" y="4815" width="1008" height="930" frameX="-100" frameY="-185" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus up0006" x="0" y="4815" width="1006" height="933" frameX="-102" frameY="-182" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus up0007" x="1006" y="4815" width="1006" height="933" frameX="-102" frameY="-182" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus up0008" x="2012" y="4815" width="1006" height="933" frameX="-102" frameY="-182" frameWidth="1308" frameHeight="1308" />
+<SubTexture name="jeferson sus idle0000" x="1002" y="0" width="1144" height="975" frameX="-101" frameY="-139" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0001" x="1024" y="1946" width="1140" height="961" frameX="-90" frameY="-154" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0002" x="0" y="3866" width="1112" height="949" frameX="-93" frameY="-166" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0003" x="5178" y="0" width="1086" height="944" frameX="-106" frameY="-171" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0004" x="5178" y="944" width="1080" height="944" frameX="-105" frameY="-171" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0005" x="5178" y="944" width="1080" height="944" frameX="-105" frameY="-171" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0006" x="5178" y="944" width="1080" height="944" frameX="-105" frameY="-171" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0007" x="5178" y="944" width="1080" height="944" frameX="-105" frameY="-171" frameWidth="1308" frameHeight="1300" />
+</TextureAtlas>

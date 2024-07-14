@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="joluxz muerto.png">
+<SubTexture name="joluxz muerto left0000" x="1227" y="1117" width="1212" height="342" frameX="-4" frameY="-857" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto left0001" x="1227" y="1117" width="1212" height="342" frameX="-4" frameY="-857" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto left0002" x="1225" y="743" width="1217" height="368" frameX="-9" frameY="-829" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto left0003" x="1225" y="743" width="1217" height="368" frameX="-9" frameY="-829" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto left0004" x="1225" y="372" width="1219" height="371" frameX="-12" frameY="-826" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto left0005" x="1225" y="372" width="1219" height="371" frameX="-12" frameY="-826" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto left0006" x="0" y="0" width="1225" height="373" frameX="-11" frameY="-823" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto left0007" x="0" y="0" width="1225" height="373" frameX="-11" frameY="-823" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto left0008" x="0" y="373" width="1222" height="372" frameX="-14" frameY="-824" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto left0009" x="0" y="373" width="1222" height="372" frameX="-14" frameY="-824" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto right0000" x="0" y="1856" width="1248" height="355" frameX="-32" frameY="-842" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto right0001" x="0" y="1856" width="1248" height="355" frameX="-32" frameY="-842" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto right0002" x="0" y="1488" width="1230" height="368" frameX="-18" frameY="-829" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto right0003" x="0" y="1488" width="1230" height="368" frameX="-18" frameY="-829" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto right0004" x="0" y="1117" width="1227" height="371" frameX="-14" frameY="-826" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto right0005" x="0" y="1117" width="1227" height="371" frameX="-14" frameY="-826" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto right0006" x="0" y="745" width="1224" height="372" frameX="-14" frameY="-824" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto right0007" x="0" y="745" width="1224" height="372" frameX="-14" frameY="-824" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto right0008" x="1225" y="0" width="1222" height="372" frameX="-14" frameY="-824" frameWidth="1700" frameHeight="1202" />
+<SubTexture name="joluxz muerto right0009" x="1225" y="0" width="1222" height="372" frameX="-14" frameY="-824" frameWidth="1700" frameHeight="1202" />
+</TextureAtlas>

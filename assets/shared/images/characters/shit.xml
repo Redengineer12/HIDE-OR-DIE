@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shit.png"><SubTexture name="shit idle0000" x="0" y="0" width="501" height="158" frameX="-76" frameY="-75" frameWidth="674" frameHeight="288" />
+</TextureAtlas>

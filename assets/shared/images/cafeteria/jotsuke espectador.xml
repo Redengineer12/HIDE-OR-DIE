@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jotsuke espectador.png">
+<SubTexture name="jotsuke espectador idle0000" x="1097" y="1137" width="1165" height="1128" frameX="-251" frameY="-74" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="jotsuke espectador idle0001" x="0" y="1137" width="1097" height="1133" frameX="-272" frameY="-69" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="jotsuke espectador idle0002" x="2231" y="0" width="1105" height="1136" frameX="-251" frameY="-65" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="jotsuke espectador idle0003" x="0" y="0" width="1115" height="1137" frameX="-242" frameY="-64" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="jotsuke espectador idle0004" x="1115" y="0" width="1116" height="1137" frameX="-240" frameY="-64" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="jotsuke espectador idle0005" x="1115" y="0" width="1116" height="1137" frameX="-240" frameY="-64" frameWidth="1500" frameHeight="1202" />
+</TextureAtlas>

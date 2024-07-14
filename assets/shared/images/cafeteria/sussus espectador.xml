@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sussus espectador.png">
+<SubTexture name="sussus espectador idle0000" x="734" y="994" width="768" height="979" frameX="-311" frameY="-188" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="sussus espectador idle0001" x="0" y="994" width="734" height="985" frameX="-314" frameY="-182" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="sussus espectador idle0002" x="1465" y="0" width="729" height="992" frameX="-314" frameY="-175" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="sussus espectador idle0003" x="0" y="0" width="731" height="994" frameX="-314" frameY="-173" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="sussus espectador idle0004" x="731" y="0" width="734" height="994" frameX="-314" frameY="-173" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="sussus espectador idle0005" x="731" y="0" width="734" height="994" frameX="-314" frameY="-173" frameWidth="1500" frameHeight="1202" />
+</TextureAtlas>

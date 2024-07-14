@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf sus1.png">
+<SubTexture name="bf sus1 idle0000" x="0" y="4446" width="1397" height="1077" frameX="0" frameY="-123" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 idle0001" x="1397" y="4446" width="1382" height="1076" frameX="-18" frameY="-121" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 idle0002" x="2779" y="4446" width="1358" height="1076" frameX="-43" frameY="-121" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 idle0003" x="4137" y="4446" width="1336" height="1076" frameX="-65" frameY="-121" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 idle0004" x="5635" y="0" width="1337" height="1076" frameX="-68" frameY="-121" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 idle0005" x="5635" y="0" width="1337" height="1076" frameX="-68" frameY="-121" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 up0000" x="0" y="2262" width="1446" height="1097" frameX="0" frameY="-99" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 up0001" x="1446" y="2262" width="1420" height="1089" frameX="-5" frameY="-107" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 up0002" x="4216" y="0" width="1419" height="1087" frameX="-6" frameY="-109" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 up0003" x="0" y="3359" width="1420" height="1087" frameX="-5" frameY="-109" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 up0004" x="4216" y="1087" width="1419" height="1087" frameX="-6" frameY="-109" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 up0005" x="4216" y="1087" width="1419" height="1087" frameX="-6" frameY="-109" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 right0000" x="0" y="5523" width="1368" height="1073" frameX="-72" frameY="-123" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 right0001" x="1368" y="5523" width="1380" height="1073" frameX="-46" frameY="-124" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 right0002" x="2748" y="5523" width="1381" height="1073" frameX="-39" frameY="-124" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 right0003" x="4129" y="5523" width="1381" height="1073" frameX="-35" frameY="-124" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 right0004" x="5510" y="5523" width="1382" height="1073" frameX="-32" frameY="-124" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 right0005" x="5510" y="5523" width="1382" height="1073" frameX="-32" frameY="-124" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 down0000" x="5533" y="6596" width="1383" height="1028" frameX="-41" frameY="-172" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 down0001" x="4157" y="6596" width="1376" height="1032" frameX="-32" frameY="-168" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 down0002" x="0" y="6596" width="1383" height="1033" frameX="-23" frameY="-167" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 down0003" x="1383" y="6596" width="1387" height="1033" frameX="-19" frameY="-167" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 down0004" x="2770" y="6596" width="1387" height="1033" frameX="-19" frameY="-167" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 down0005" x="2770" y="6596" width="1387" height="1033" frameX="-19" frameY="-167" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss up0000" x="0" y="0" width="1409" height="1152" frameX="-23" frameY="-38" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss up0001" x="2777" y="0" width="1439" height="1106" frameX="-8" frameY="-84" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss up0002" x="2777" y="0" width="1439" height="1106" frameX="-8" frameY="-84" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss up0003" x="2777" y="0" width="1439" height="1106" frameX="-8" frameY="-84" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss up0004" x="2777" y="0" width="1439" height="1106" frameX="-8" frameY="-84" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss up0005" x="2777" y="0" width="1439" height="1106" frameX="-8" frameY="-84" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss right0000" x="0" y="1152" width="1411" height="1110" frameX="-69" frameY="-85" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss right0001" x="1409" y="0" width="1368" height="1126" frameX="-69" frameY="-69" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss right0002" x="1409" y="0" width="1368" height="1126" frameX="-69" frameY="-69" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss right0003" x="1409" y="0" width="1368" height="1126" frameX="-69" frameY="-69" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss right0004" x="1409" y="0" width="1368" height="1126" frameX="-69" frameY="-69" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss right0005" x="1409" y="0" width="1368" height="1126" frameX="-69" frameY="-69" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss down0000" x="8341" y="0" width="1465" height="1004" frameX="-1" frameY="-195" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss down0001" x="6972" y="0" width="1369" height="1047" frameX="-49" frameY="-152" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss down0002" x="6972" y="0" width="1369" height="1047" frameX="-49" frameY="-152" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss down0003" x="6972" y="0" width="1369" height="1047" frameX="-49" frameY="-152" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss down0004" x="6972" y="0" width="1369" height="1047" frameX="-49" frameY="-152" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss down0005" x="6972" y="0" width="1369" height="1047" frameX="-49" frameY="-152" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss left0000" x="4216" y="2174" width="1316" height="1081" frameX="-1" frameY="-112" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss left0001" x="2777" y="1106" width="1308" height="1101" frameX="-9" frameY="-92" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss left0002" x="2777" y="1106" width="1308" height="1101" frameX="-9" frameY="-92" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss left0003" x="2777" y="1106" width="1308" height="1101" frameX="-9" frameY="-92" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss left0004" x="2777" y="1106" width="1308" height="1101" frameX="-9" frameY="-92" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 miss left0005" x="2777" y="1106" width="1308" height="1101" frameX="-9" frameY="-92" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 left0000" x="1411" y="1152" width="1348" height="1081" frameX="-5" frameY="-110" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 left0001" x="2866" y="2262" width="1336" height="1081" frameX="-19" frameY="-110" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 left0002" x="1420" y="3359" width="1321" height="1081" frameX="-35" frameY="-110" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 left0003" x="2741" y="3359" width="1312" height="1081" frameX="-45" frameY="-110" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 left0004" x="4053" y="3359" width="1308" height="1081" frameX="-49" frameY="-110" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="bf sus1 left0005" x="4053" y="3359" width="1308" height="1081" frameX="-49" frameY="-110" frameWidth="1500" frameHeight="1202" />
+</TextureAtlas>

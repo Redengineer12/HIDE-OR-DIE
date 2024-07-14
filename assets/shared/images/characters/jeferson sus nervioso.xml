@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jeferson sus nervioso.png"><SubTexture name="jeferson sus idle0000" x="1011" y="4083" width="1080" height="944" frameX="-105" frameY="-171" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0001" x="4322" y="0" width="1164" height="947" frameX="-101" frameY="-167" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0002" x="3206" y="0" width="1116" height="958" frameX="-89" frameY="-157" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0003" x="1020" y="3130" width="1093" height="951" frameX="-86" frameY="-164" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0004" x="2091" y="4083" width="1083" height="944" frameX="-88" frameY="-171" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0005" x="1017" y="5029" width="1062" height="941" frameX="-101" frameY="-174" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0006" x="2079" y="5029" width="1060" height="941" frameX="-103" frameY="-174" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus idle0007" x="2079" y="5029" width="1060" height="941" frameX="-103" frameY="-174" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus right0000" x="0" y="3130" width="1020" height="953" frameX="-138" frameY="-157" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus right0001" x="0" y="2158" width="1031" height="972" frameX="-154" frameY="-138" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus right0002" x="1031" y="2158" width="1008" height="964" frameX="-143" frameY="-146" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus right0003" x="3206" y="1913" width="1001" height="954" frameX="-135" frameY="-156" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus right0004" x="4322" y="947" width="1011" height="946" frameX="-131" frameY="-164" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus right0005" x="4322" y="1893" width="1011" height="946" frameX="-131" frameY="-164" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus right0006" x="4322" y="2839" width="1011" height="946" frameX="-131" frameY="-164" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus right0007" x="0" y="4083" width="1011" height="946" frameX="-131" frameY="-164" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus up0000" x="1968" y="1102" width="931" height="983" frameX="-119" frameY="-129" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus up0001" x="0" y="1102" width="974" height="1056" frameX="-104" frameY="-59" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus up0002" x="974" y="1102" width="994" height="1043" frameX="-106" frameY="-69" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus up0003" x="6498" y="0" width="1019" height="927" frameX="-87" frameY="-185" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus up0004" x="5195" y="5029" width="1022" height="938" frameX="-83" frameY="-174" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus up0005" x="5486" y="943" width="1012" height="938" frameX="-93" frameY="-174" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus up0006" x="5486" y="1881" width="1003" height="938" frameX="-102" frameY="-174" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus up0007" x="5486" y="1881" width="1003" height="938" frameX="-102" frameY="-174" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus down0000" x="5486" y="0" width="1012" height="943" frameX="-98" frameY="-173" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus down0001" x="3206" y="958" width="988" height="955" frameX="-113" frameY="-161" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus down0002" x="3174" y="4083" width="989" height="944" frameX="-110" frameY="-172" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus down0003" x="0" y="5029" width="1017" height="943" frameX="-102" frameY="-173" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus down0004" x="3139" y="5029" width="1026" height="939" frameX="-99" frameY="-177" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus down0005" x="4165" y="5029" width="1030" height="939" frameX="-99" frameY="-177" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus down0006" x="4165" y="5029" width="1030" height="939" frameX="-99" frameY="-177" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus down0007" x="4165" y="5029" width="1030" height="939" frameX="-99" frameY="-177" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus down0008" x="4165" y="5029" width="1030" height="939" frameX="-99" frameY="-177" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus left0000" x="4163" y="4083" width="1009" height="944" frameX="-15" frameY="-168" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus left0001" x="2113" y="3130" width="945" height="951" frameX="-2" frameY="-160" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus left0002" x="2039" y="2158" width="1058" height="959" frameX="0" frameY="-149" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus left0003" x="3058" y="3130" width="1117" height="949" frameX="-16" frameY="-157" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus left0004" x="1074" y="5972" width="1101" height="900" frameX="-38" frameY="-208" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus left0005" x="2175" y="5972" width="1093" height="899" frameX="-50" frameY="-209" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus left0006" x="2175" y="5972" width="1093" height="899" frameX="-50" frameY="-209" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus left0007" x="2175" y="5972" width="1093" height="899" frameX="-50" frameY="-209" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0000" x="1066" y="0" width="1073" height="1081" frameX="-112" frameY="-38" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0001" x="0" y="0" width="1066" height="1102" frameX="-110" frameY="-13" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0002" x="2139" y="0" width="1067" height="1081" frameX="-73" frameY="-34" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0003" x="6498" y="927" width="1007" height="899" frameX="-74" frameY="-196" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0004" x="0" y="5972" width="1074" height="909" frameX="-133" frameY="-200" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0005" x="5510" y="5972" width="1122" height="664" frameX="-160" frameY="-478" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0006" x="6535" y="6881" width="1097" height="561" frameX="-173" frameY="-575" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0007" x="7517" y="5774" width="1080" height="595" frameX="-191" frameY="-551" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0008" x="2223" y="6881" width="1078" height="587" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0009" x="3301" y="6881" width="1078" height="587" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0010" x="4379" y="6881" width="1078" height="587" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0011" x="5457" y="6881" width="1078" height="587" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0012" x="5457" y="6881" width="1078" height="587" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0013" x="5457" y="6881" width="1078" height="587" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0014" x="5457" y="6881" width="1078" height="587" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0015" x="5457" y="6881" width="1078" height="587" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0016" x="5457" y="6881" width="1078" height="587" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0017" x="5457" y="6881" width="1078" height="587" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0018" x="5457" y="6881" width="1078" height="587" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus hefuckingfalldown0019" x="5457" y="6881" width="1078" height="587" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0000" x="1117" y="6881" width="1106" height="589" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0001" x="0" y="6881" width="1117" height="595" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0002" x="7517" y="662" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0003" x="4389" y="5972" width="1121" height="671" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0004" x="7517" y="5150" width="1121" height="624" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0005" x="7517" y="1307" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0006" x="3268" y="5972" width="1121" height="678" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0007" x="7517" y="4521" width="1121" height="629" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0008" x="7517" y="1952" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0009" x="7517" y="0" width="1121" height="662" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0010" x="7517" y="3887" width="1121" height="634" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0011" x="7517" y="2597" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0012" x="7517" y="3242" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0013" x="3268" y="5972" width="1121" height="678" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0014" x="7517" y="4521" width="1121" height="629" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0015" x="7517" y="1952" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0016" x="7517" y="0" width="1121" height="662" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0017" x="7517" y="3887" width="1121" height="634" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0018" x="7517" y="2597" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0019" x="7517" y="3242" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0020" x="3268" y="5972" width="1121" height="678" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0021" x="7517" y="4521" width="1121" height="629" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0022" x="7517" y="1952" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0023" x="7517" y="0" width="1121" height="662" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0024" x="7517" y="3887" width="1121" height="634" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0025" x="7517" y="2597" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0026" x="7517" y="3242" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0027" x="3268" y="5972" width="1121" height="678" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0028" x="7517" y="4521" width="1121" height="629" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0029" x="7517" y="1952" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0030" x="7517" y="0" width="1121" height="662" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0031" x="7517" y="3887" width="1121" height="634" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0032" x="7517" y="2597" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0033" x="7517" y="3242" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0034" x="3268" y="5972" width="1121" height="678" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0035" x="7517" y="4521" width="1121" height="629" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0036" x="7517" y="1952" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0037" x="7517" y="0" width="1121" height="662" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0038" x="7517" y="3887" width="1121" height="634" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0039" x="7517" y="2597" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0040" x="7517" y="3242" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0041" x="3268" y="5972" width="1121" height="678" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0042" x="7517" y="4521" width="1121" height="629" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0043" x="7517" y="1952" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0044" x="7517" y="0" width="1121" height="662" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0045" x="7517" y="3887" width="1121" height="634" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0046" x="7517" y="2597" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0047" x="7517" y="3242" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0048" x="3268" y="5972" width="1121" height="678" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0049" x="7517" y="4521" width="1121" height="629" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0050" x="7517" y="1952" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0051" x="7517" y="0" width="1121" height="662" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0052" x="7517" y="3887" width="1121" height="634" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0053" x="7517" y="2597" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0054" x="7517" y="3242" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0055" x="3268" y="5972" width="1121" height="678" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0056" x="7517" y="4521" width="1121" height="629" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0057" x="7517" y="1952" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0058" x="7517" y="0" width="1121" height="662" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0059" x="7517" y="3887" width="1121" height="634" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0060" x="7517" y="2597" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="jeferson sus nervioso brillo goat0061" x="7517" y="3242" width="1121" height="645" frameX="-183" frameY="-559" frameWidth="1308" frameHeight="1300" />
+</TextureAtlas>

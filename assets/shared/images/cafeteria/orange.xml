@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="orange.png"><SubTexture name="orange idle0000" x="0" y="0" width="742" height="1160" frameX="-410" frameY="-8" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="orange idle0001" x="742" y="0" width="734" height="1134" frameX="-421" frameY="-34" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="orange idle0002" x="1476" y="0" width="740" height="1118" frameX="-420" frameY="-50" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="orange idle0003" x="2216" y="0" width="743" height="1117" frameX="-420" frameY="-51" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="orange idle0004" x="0" y="1160" width="743" height="1116" frameX="-420" frameY="-52" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="orange idle0005" x="0" y="1160" width="743" height="1116" frameX="-420" frameY="-52" frameWidth="1500" frameHeight="1202" />
+</TextureAtlas>

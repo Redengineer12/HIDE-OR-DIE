@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="amarillo.png"><SubTexture name="amarillo idle0000" x="1026" y="1187" width="1002" height="1138" frameX="-382" frameY="-59" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="amarillo idle0001" x="0" y="1187" width="1026" height="1172" frameX="-392" frameY="-25" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="amarillo idle0002" x="1036" y="0" width="1040" height="1184" frameX="-402" frameY="-13" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="amarillo idle0003" x="2076" y="0" width="1037" height="1184" frameX="-405" frameY="-13" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="amarillo idle0004" x="0" y="0" width="1036" height="1187" frameX="-405" frameY="-10" frameWidth="1500" frameHeight="1202" />
+<SubTexture name="amarillo idle0005" x="0" y="0" width="1036" height="1187" frameX="-405" frameY="-10" frameWidth="1500" frameHeight="1202" />
+</TextureAtlas>
