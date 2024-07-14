@@ -7,3 +7,12 @@ mallEvil
 school
 schoolEvil
 tank
+area-medica
+cafeteria
+cafeteria2
+cafeteria3
+cafeteriaso
+cambio
+exampleStage
+kitchen
+pasillo
