@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "joluxzdialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good heavens!! You scared me I thought I would die\n"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogo2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No brother of fact you scared me\n "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "joluxzdialogo",
+			"boxState": "normal",
+			"expression": "shh",
+			"text": "It's better to stay quiet, there's a Seeker over there.\nIf he discovers us we will both die\n"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogo2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm not afraid of that guy\nI'm afraid of death ��\n"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "joluxzdialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Interesting, me too XD\n"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogo2",
+			"boxState": "normal",
+			"expression": "acus",
+			"text": "Mmmm I know it's not the perfect place but do you want to rap with me?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "joluxzdialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Seriously boy, you are afraid of nothing\nok, I accept your proposal\nbut don't make too much noise ok?\n"
+		},
+		{
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "bfdialogo2",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Yeahh!! \n"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "joluxzdialogo",
+			"boxState": "normal",
+			"expression": "shh",
+			"text": "Shhh.. don't scream\n"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogo2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh, my bad\\nlet's  start"
+		}
+	]
+}

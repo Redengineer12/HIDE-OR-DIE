@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				4.98670212765957,
+				[
+					[
+						"OpponentNotesFade",
+						"10",
+						"0.2"
+					]
+				]
+			],
+			[
+				79.7872340425532,
+				[
+					[
+						"health_drain",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41166.8882978723,
+				[
+					[
+						"Change Character",
+						"bf",
+						"black-2"
+					]
+				]
+			],
+			[
+				41170.2127659574,
+				[
+					[
+						"Change Character",
+						"gf",
+						"shit_but_moving"
+					]
+				]
+			],
+			[
+				91392.8571428571,
+				[
+					[
+						"Play Animation",
+						"kaboom beach",
+						"dad"
+					]
+				]
+			],
+			[
+				91928.5714285714,
+				[
+					[
+						"Play Animation",
+						"dai",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}

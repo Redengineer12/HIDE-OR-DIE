@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hello",
+			"boxState": "normal",
+			"portrait": "bfdialogo1",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "acus",
+			"text": "Who are you?",
+			"boxState": "normal",
+			"portrait": "bfdialogo1",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "ohh! I'm sorry I don't introduce myself my name is jefferson but you can call me Jeff",
+			"boxState": "normal",
+			"portrait": "jeffdialogo1",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "acus",
+			"text": "Ok?",
+			"boxState": "normal",
+			"portrait": "bfdialogo1",
+			"speed": 0.115,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Ok I'm bored, Jefferson, do you want to sing a song with me?",
+			"boxState": "normal",
+			"portrait": "bfdialogo1",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "neutro",
+			"text": "Sure! It would be a pleasure ",
+			"boxState": "normal",
+			"portrait": "jeffdialogo1",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Bf don't trust him so much, it looks suspicious",
+			"boxState": "normal",
+			"portrait": "gfdialogo1",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Don't worry babe I'll take care of it ",
+			"boxState": "normal",
+			"portrait": "bfdialogo1",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "nerv",
+			"text": "mmm ok, don't say more let's start hehe",
+			"boxState": "normal",
+			"portrait": "jeffdialogo1",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "neutro",
+			"text": "Heh He...",
+			"boxState": "normal",
+			"portrait": "jeffdialogo1",
+			"speed": 0.255,
+			"sound": ""
+		},
+		{
+			"expression": "acus",
+			"text": "Ok?",
+			"boxState": "normal",
+			"portrait": "bfdialogo1",
+			"speed": 0.21,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "You scare me, bro",
+			"boxState": "normal",
+			"portrait": "bfdialogo1",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

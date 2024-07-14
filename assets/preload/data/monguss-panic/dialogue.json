@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"expression": "acus",
+			"text": "Mmm I see you very suspicious",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogo1"
+		},
+		{
+			"expression": "talk",
+			"text": "Let's report it, babe",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfdialogo1"
+		},
+		{
+			"expression": "nerv",
+			"text": "Wait!! HOLD ON!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jeffdialogo1"
+		},
+		{
+			"expression": "nerv",
+			"text": "I haven't done anything wrong to you!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jeffdialogo1"
+		},
+		{
+			"expression": "acus",
+			"text": "I THINK YOU'RE THE IMPOSTOR!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jeffdialogo1"
+		},
+		{
+			"expression": "talk",
+			"text": "Calm down, bro",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogo1"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes, he is an impostor, babe, report him",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfdialogo1"
+		},
+		{
+			"expression": "nerv",
+			"text": "Wait! Let's finish the second song right?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jeffdialogo1"
+		},
+		{
+			"expression": "nerv",
+			"text": "Besides, I'm not an impostor.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jeffdialogo1"
+		},
+		{
+			"expression": "acus",
+			"text": "m m m m m . . . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.355,
+			"portrait": "bfdialogo1"
+		},
+		{
+			"expression": "acus",
+			"text": "Ok? Let's go then",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogo1"
+		},
+		{
+			"expression": "talk",
+			"text": "Love, after the second song always something bad happens to us",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfdialogo1"
+		},
+		{
+			"expression": "talk",
+			"text": "Don't worry, I'll take care of it",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogo1"
+		},
+		{
+			"expression": "neutro",
+			"text": "emm... hehe let's get started, friend",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jeffdialogo1"
+		},
+		{
+			"expression": "acus",
+			"text": "Ok",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogo1"
+		}
+	]
+}
