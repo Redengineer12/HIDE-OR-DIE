@@ -1,0 +1,5 @@
+puts a black image on the screen
+
+value1: put 1 for it to smoothly disappear, put 2 for it to smoothly appear and 3 for it to roughly appear put 4 to roughly disappear
+
+made by gratch the echidna for tails dark diary mod
