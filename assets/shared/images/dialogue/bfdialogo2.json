@@ -1,0 +1,38 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-400,
+		-270
+	],
+	"no_antialiasing": true,
+	"scale": 0.549999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				1
+			],
+			"loop_name": "bfdialogo2 talk",
+			"idle_name": "bfdialogo2 talk0007"
+		},
+		{
+			"idle_offsets": [
+				0,
+				-7
+			],
+			"anim": "acus",
+			"loop_offsets": [
+				0,
+				-6
+			],
+			"idle_name": "bfdialogo2 acus0007",
+			"loop_name": "bfdialogo2 acus"
+		}
+	],
+	"image": "bfdialogo2"
+}

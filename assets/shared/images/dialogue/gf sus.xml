@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf sus.png"><SubTexture name="gf sus normal0000" x="811" y="0" width="835" height="1041" frameX="-215" frameY="-17" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="gf sus normal0001" x="0" y="0" width="811" height="1069" frameX="-233" frameY="-5" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="gf sus normal0002" x="1646" y="0" width="826" height="1041" frameX="-224" frameY="-27" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="gf sus normal0003" x="0" y="1069" width="840" height="1041" frameX="-213" frameY="-34" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="gf sus idle0000" x="811" y="0" width="835" height="1041" frameX="-215" frameY="-17" frameWidth="1308" frameHeight="1300" />
+</TextureAtlas>

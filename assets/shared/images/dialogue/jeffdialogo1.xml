@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jeffdialogo1.png">
+<SubTexture name="jeffdialogo1 normal0000" x="1128" y="2996" width="1147" height="953" frameX="-33" frameY="-173" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 normal0001" x="1128" y="2996" width="1147" height="953" frameX="-33" frameY="-173" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 normal0002" x="3356" y="0" width="1128" height="989" frameX="-46" frameY="-155" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 normal0003" x="3356" y="0" width="1128" height="989" frameX="-46" frameY="-155" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 normal0004" x="2238" y="0" width="1118" height="996" frameX="-49" frameY="-151" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 normal0005" x="2238" y="0" width="1118" height="996" frameX="-49" frameY="-151" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 normal0006" x="0" y="0" width="1119" height="1000" frameX="-51" frameY="-149" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 normal0007" x="2238" y="0" width="1118" height="996" frameX="-49" frameY="-151" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 nervioso0000" x="2275" y="2996" width="1147" height="953" frameX="-33" frameY="-173" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 nervioso0001" x="2275" y="2996" width="1147" height="953" frameX="-33" frameY="-173" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 nervioso0002" x="3356" y="989" width="1128" height="989" frameX="-46" frameY="-155" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 nervioso0003" x="3356" y="989" width="1128" height="989" frameX="-46" frameY="-155" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 nervioso0004" x="2238" y="996" width="1118" height="996" frameX="-49" frameY="-151" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 nervioso0005" x="2238" y="996" width="1118" height="996" frameX="-49" frameY="-151" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 nervioso0006" x="1119" y="0" width="1119" height="1000" frameX="-51" frameY="-149" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 nervioso0007" x="1119" y="0" width="1119" height="1000" frameX="-51" frameY="-149" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 neutro0000" x="4484" y="0" width="1147" height="953" frameX="-33" frameY="-173" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 neutro0001" x="4484" y="0" width="1147" height="953" frameX="-33" frameY="-173" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 neutro0002" x="3356" y="1978" width="1128" height="989" frameX="-46" frameY="-155" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 neutro0003" x="3356" y="1978" width="1128" height="989" frameX="-46" frameY="-155" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 neutro0004" x="0" y="2000" width="1118" height="996" frameX="-49" frameY="-151" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 neutro0005" x="0" y="2000" width="1118" height="996" frameX="-49" frameY="-151" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 neutro0006" x="0" y="1000" width="1119" height="1000" frameX="-51" frameY="-149" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 neutro0007" x="0" y="1000" width="1119" height="1000" frameX="-51" frameY="-149" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 acus0000" x="4484" y="953" width="1147" height="953" frameX="-33" frameY="-173" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 acus0001" x="4484" y="953" width="1147" height="953" frameX="-33" frameY="-173" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 acus0002" x="0" y="2996" width="1128" height="989" frameX="-46" frameY="-155" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 acus0003" x="0" y="2996" width="1128" height="989" frameX="-46" frameY="-155" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 acus0004" x="1118" y="2000" width="1118" height="996" frameX="-49" frameY="-151" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 acus0005" x="1118" y="2000" width="1118" height="996" frameX="-49" frameY="-151" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 acus0006" x="1119" y="1000" width="1119" height="1000" frameX="-51" frameY="-149" frameWidth="1200" frameHeight="1202" />
+<SubTexture name="jeffdialogo1 acus0007" x="1119" y="1000" width="1119" height="1000" frameX="-51" frameY="-149" frameWidth="1200" frameHeight="1202" />
+</TextureAtlas>

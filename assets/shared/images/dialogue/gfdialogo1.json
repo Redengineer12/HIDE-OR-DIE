@@ -1,0 +1,51 @@
+{
+	"position": [
+		-300,
+		-530
+	],
+	"dialogue_pos": "center",
+	"no_antialiasing": true,
+	"scale": 0.549999999999999,
+	"image": "gfdialogo1",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				1
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "gfdialogo1 normal0007",
+			"loop_name": "gfdialogo1 normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				-6
+			],
+			"anim": "acus",
+			"idle_offsets": [
+				0,
+				-7
+			],
+			"loop_name": "bfdialogo1 acus",
+			"idle_name": "bfdialogo1 acus0007"
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "",
+			"anim": "",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

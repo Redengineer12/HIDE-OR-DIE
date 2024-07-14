@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-230,
+		-340
+	],
+	"scale": 0.649999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				1
+			],
+			"loop_name": "jeffdialogo1 normal",
+			"idle_name": "jeffdialogo1 normal0007"
+		},
+		{
+			"loop_name": "jeffdialogo1 nervioso",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jeffdialogo1 nervioso0007",
+			"anim": "nerv",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "jeffdialogo1 neutro",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jeffdialogo1 neutro0007",
+			"anim": "neutro",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "jeffdialogo1 acus",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jeffdialogo1 acus0007",
+			"anim": "acus",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "jeffdialogo1"
+}

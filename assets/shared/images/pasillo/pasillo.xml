@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pasillo.png">
+<SubTexture name="pasillo idle0000" x="0" y="0" width="1280" height="554" frameX="0" frameY="0" frameWidth="1280" frameHeight="554" />
+<SubTexture name="pasillo idle0001" x="0" y="554" width="1280" height="554" frameX="0" frameY="0" frameWidth="1280" frameHeight="554" />
+<SubTexture name="pasillo idle0002" x="1280" y="0" width="1280" height="554" frameX="0" frameY="0" frameWidth="1280" frameHeight="554" />
+<SubTexture name="pasillo idle0003" x="1280" y="554" width="1280" height="554" frameX="0" frameY="0" frameWidth="1280" frameHeight="554" />
+<SubTexture name="pasillo idle0004" x="0" y="1108" width="1280" height="554" frameX="0" frameY="0" frameWidth="1280" frameHeight="554" />
+<SubTexture name="pasillo idle0005" x="1280" y="1108" width="1280" height="554" frameX="0" frameY="0" frameWidth="1280" frameHeight="554" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfdialogo1.png">
+<SubTexture name="gfdialogo1 normal0000" x="884" y="0" width="890" height="1114" frameX="-23" frameY="-184" frameWidth="1000" frameHeight="1500" />
+<SubTexture name="gfdialogo1 normal0001" x="884" y="0" width="890" height="1114" frameX="-23" frameY="-184" frameWidth="1000" frameHeight="1500" />
+<SubTexture name="gfdialogo1 normal0002" x="0" y="1126" width="875" height="1109" frameX="-53" frameY="-177" frameWidth="1000" frameHeight="1500" />
+<SubTexture name="gfdialogo1 normal0003" x="0" y="1126" width="875" height="1109" frameX="-53" frameY="-177" frameWidth="1000" frameHeight="1500" />
+<SubTexture name="gfdialogo1 normal0004" x="0" y="0" width="884" height="1126" frameX="-25" frameY="-192" frameWidth="1000" frameHeight="1500" />
+<SubTexture name="gfdialogo1 normal0005" x="0" y="0" width="884" height="1126" frameX="-25" frameY="-192" frameWidth="1000" frameHeight="1500" />
+<SubTexture name="gfdialogo1 normal0006" x="1774" y="0" width="890" height="1114" frameX="-11" frameY="-197" frameWidth="1000" frameHeight="1500" />
+<SubTexture name="gfdialogo1 normal0007" x="1774" y="0" width="890" height="1114" frameX="-11" frameY="-197" frameWidth="1000" frameHeight="1500" />
+</TextureAtlas>

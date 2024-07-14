@@ -1,0 +1,38 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-400,
+		-270
+	],
+	"no_antialiasing": true,
+	"scale": 0.549999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				1
+			],
+			"loop_name": "joluxzdialogo talk",
+			"idle_name": "joluxzdialogo talk0007"
+		},
+		{
+			"loop_name": "joluxzdialogo shh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "joluxzdialogo shh0007",
+			"anim": "shh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "joluxzdialogo"
+}

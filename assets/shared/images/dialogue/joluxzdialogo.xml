@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="joluxzdialogo.png">
+<SubTexture name="joluxzdialogo talk0000" x="2705" y="0" width="1227" height="939" frameX="-59" frameY="-5" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo talk0001" x="2705" y="0" width="1227" height="939" frameX="-59" frameY="-5" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo talk0002" x="1182" y="993" width="1227" height="944" frameX="-54" frameY="0" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo talk0003" x="1182" y="993" width="1227" height="944" frameX="-54" frameY="0" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo talk0004" x="2705" y="939" width="1216" height="937" frameX="-73" frameY="-7" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo talk0005" x="2705" y="939" width="1216" height="937" frameX="-73" frameY="-7" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo talk0006" x="0" y="1984" width="1207" height="937" frameX="-81" frameY="-7" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo talk0007" x="0" y="1984" width="1207" height="937" frameX="-81" frameY="-7" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo shh0000" x="0" y="0" width="904" height="993" frameX="-382" frameY="-5" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo shh0001" x="0" y="0" width="904" height="993" frameX="-382" frameY="-5" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo shh0002" x="1802" y="0" width="903" height="992" frameX="-378" frameY="0" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo shh0003" x="1802" y="0" width="903" height="992" frameX="-378" frameY="0" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo shh0004" x="0" y="993" width="1182" height="991" frameX="-107" frameY="-7" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo shh0005" x="0" y="993" width="1182" height="991" frameX="-107" frameY="-7" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo shh0006" x="904" y="0" width="898" height="993" frameX="-390" frameY="-7" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="joluxzdialogo shh0007" x="904" y="0" width="898" height="993" frameX="-390" frameY="-7" frameWidth="1500" frameHeight="1000" />
+</TextureAtlas>

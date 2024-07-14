@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf sus.png"><SubTexture name="bf sus happy0000" x="0" y="2806" width="1007" height="929" frameX="-147" frameY="-73" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus happy0001" x="1980" y="0" width="1005" height="932" frameX="-148" frameY="-63" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus happy0002" x="0" y="0" width="990" height="937" frameX="-157" frameY="-62" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus happy0003" x="1980" y="932" width="1000" height="932" frameX="-149" frameY="-67" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus normal0000" x="1007" y="2806" width="1007" height="929" frameX="-147" frameY="-73" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus normal0001" x="0" y="1874" width="1005" height="932" frameX="-148" frameY="-63" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus normal0002" x="990" y="0" width="990" height="937" frameX="-157" frameY="-62" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus normal0003" x="1005" y="1874" width="1000" height="932" frameX="-149" frameY="-67" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus youaresus0000" x="2014" y="2806" width="1007" height="929" frameX="-147" frameY="-73" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus youaresus0001" x="2985" y="0" width="1005" height="932" frameX="-148" frameY="-63" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus youaresus0002" x="0" y="937" width="990" height="937" frameX="-157" frameY="-62" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus youaresus0003" x="2985" y="932" width="1000" height="932" frameX="-149" frameY="-67" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus idle0000" x="0" y="2806" width="1007" height="929" frameX="-147" frameY="-73" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus holabro0000" x="1005" y="1874" width="1000" height="932" frameX="-149" frameY="-67" frameWidth="1308" frameHeight="1300" />
+<SubTexture name="bf sus hello0000" x="2014" y="2806" width="1007" height="929" frameX="-147" frameY="-73" frameWidth="1308" frameHeight="1300" />
+</TextureAtlas>

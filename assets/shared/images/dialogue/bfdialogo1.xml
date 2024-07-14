@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfdialogo1.png">
+<SubTexture name="bfdialogo1 normal0000" x="2678" y="0" width="1356" height="917" frameX="-21" frameY="-65" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 normal0001" x="2678" y="0" width="1356" height="917" frameX="-21" frameY="-65" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 normal0002" x="2678" y="917" width="1333" height="917" frameX="-41" frameY="-43" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 normal0003" x="2678" y="917" width="1333" height="917" frameX="-41" frameY="-43" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 normal0004" x="0" y="919" width="1334" height="918" frameX="-50" frameY="-56" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 normal0005" x="0" y="919" width="1334" height="918" frameX="-50" frameY="-56" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 normal0006" x="0" y="0" width="1339" height="919" frameX="-45" frameY="-60" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 normal0007" x="0" y="0" width="1339" height="919" frameX="-45" frameY="-60" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 acus0000" x="0" y="1837" width="1356" height="917" frameX="-21" frameY="-65" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 acus0001" x="0" y="1837" width="1356" height="917" frameX="-21" frameY="-65" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 acus0002" x="1356" y="1837" width="1333" height="917" frameX="-41" frameY="-43" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 acus0003" x="1356" y="1837" width="1333" height="917" frameX="-41" frameY="-43" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 acus0004" x="1334" y="919" width="1334" height="918" frameX="-50" frameY="-56" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 acus0005" x="1334" y="919" width="1334" height="918" frameX="-50" frameY="-56" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 acus0006" x="1339" y="0" width="1339" height="919" frameX="-45" frameY="-60" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="bfdialogo1 acus0007" x="1339" y="0" width="1339" height="919" frameX="-45" frameY="-60" frameWidth="1500" frameHeight="1000" />
+</TextureAtlas>
