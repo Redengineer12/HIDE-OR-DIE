@@ -1,0 +1,68 @@
+{
+	"storyName": "vs jefferson",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "sus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"hold my friend",
+			"jeffsus1",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"monguss panic",
+			"jeffsus1",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"sussus-seekuss",
+			"icon-jefresonmalote",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"deadly-silence",
+			"joluxz1",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"run-or-die",
+			"jefferson supermalo",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Vs Jefferson",
+	"hiddenUntilUnlocked": false
+}
